@@ -1,0 +1,96 @@
+<body>
+    <header class="header"
+    <nav class ="nav"
+    <a href="estilo.css" class="logo navml">logo</a>
+    <button class 0 = "toggle"><i class = "fa-solid fa-barss"></i></button>
+<font size="9" color="purple" font-family:Arial>
+    <br>
+    <br>
+    <p align="right"> <u> Curriculum vitae </u></p>
+    <p align="right"><b><i>Robin Daniel</b></i></p>
+    <p align="right"> <img src ="mifoto.jpg" width="300" height="300" border = "2"></p>
+<br>
+<a name="pagwebrepa2.html"></a>
+<ul class="nav-menu">
+<li class = "nmi"><a href="datos.html">Datos personales</a></li>
+<li class = "nmi"><a href="estudios.html">Estudios</a></li>
+<li class = "nmi"><a href="laboral.html">Experiencia Laboral</a></li>
+<li class = "nmi"><a href="reco.html">Recomendaciones</a></li>
+</ul>
+<br>
+
+
+
+
+<html>
+<head>
+    <title>Datos personales</title>
+</head>
+<body bgcolor = "blue" background="fondo.jpg">
+    <header class="header">
+        <nav class ="nav">
+            <a href="nav-menu.html" class="logo navml">logo</a>
+        <button class= "btn"><i class = "fa fa-home"></i></button>
+        <button class= "btn"><i class = "fa-solid fa-barss"></i></button>
+    <a name="datos"></a>
+    <hr size = "12" color = "red">
+    <font size ="5" color"red" font-family:Arial>
+    <p>Datos personales</p>
+    <p>Nombre: Robin Daniel
+    <p>Apellido: Franco Castañeda
+    <p>Edad: 17 años
+    <p>tell:53143579
+    <p>Dirección:Terranoca 8va calle 15av
+        <a href="nav-menu.html">Regreso</a>
+    <br>   
+</body>
+</html>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta HTTP-EQUIV="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>mi primer pagina web</title>
+<link rel="stylesheet" href="estilo.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/18b27d7909.js" crossoring="anonymous"></script>
+<i class="fa-solid fa bars"></i>
+</head>
+<body>
+    
+    <header class="header">
+    <nav class ="nav">
+        <a href="nav-menu.html" class="logo navml">logo</a>
+    <button class= "btn"><i class = "fa fa-home"></i></button>
+    <button class= "btn"><i class = "fa-solid fa-barss"></i></button>
+    
+    
+<br>
+<ul class="nav-menu">
+<li class = "nmi"><a href="datos.html">Datos><i class="fa-solid fa-circle-user"></i></a></li>
+<li class = "nmi"><a href="estudios.html">Estudios<i class="fa-solid fa-circle-user"></i></a></li>
+<li class = "nmi"><a href="laboral.html">ExperienciaLaboral<i class="fa-solid fa-circle-user"></i></a></li>
+<li class = "nmi"><a href="reco.html">Recomendaciones<i class="fa-solid fa-circle-user"></i></a></li>
+<br>
+</ul>
+</nav>
+    </header>
+    <p align="right"> <u> Curriculum vitae </u></p>
+    <p align="right"><b><i>Robin Daniel</b></i></p>
+    <ul class="nav-menu"></ul>
+    <p align="right"> <img src ="mifoto.jpg" width="300" height="300" border = "2"></p>
+    <main> 
+        <h1>ola chatos</h1>
+    </main>
+<br>
+
+
+
+
+
+
+
+
+
